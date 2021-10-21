@@ -1,0 +1,47 @@
+body{
+    background: rgb(70,142,236);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+.btn{
+    padding: 6px;
+}
+
+.btn1{
+    margin-left: 9px;
+}
+
+.btn2{
+    margin-left: 23px;
+
+}
+
+.btn3{
+    margin: 15px 0px 0px 65px;
+    
+}
+
+.msg{
+    padding: 2px;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
